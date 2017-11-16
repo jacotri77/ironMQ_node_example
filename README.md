@@ -13,7 +13,7 @@ Before starting, you will need to setup a couple of things. You only need to do 
 `git clone https://github.com/jacotri77/iron_worker_node_twitter_bot`
 
 <li>Install <a href="https://www.docker.com/get-docker">Docker</a></li>
-<li>Install <a href="https://nodejs.org/en/download/package-manager/">node</a>.  For this bot I used `node 8.9.1` . You can check if it is installed with either of these commands:</li></ol>
+<li>Install <a href="https://nodejs.org/en/download/package-manager/">node</a>.  For this bot I used <b>node 8.9.1</b>. You can check if it is installed with either of these commands:</li></ol>
 
 ``` node
 node -v or
