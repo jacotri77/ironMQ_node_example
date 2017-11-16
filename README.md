@@ -116,7 +116,7 @@ Configuring client
         Registered code package with id='59baf777a74b24000a7240fa'
         Check https://hud-e.iron.io/worker/projects/59b8769be92bfa000c182d8d/code/59baf77a74b24000a7240fa for more info
 
-
+```
 <h4>4. Upload the worker code package to IronWorker</h4>
 
 This uplaods the code package you are going to use in your worker to IronWorker.<br><br>

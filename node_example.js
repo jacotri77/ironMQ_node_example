@@ -1,4 +1,5 @@
 var iron_mq = require('iron_mq')
+var worker = require('iron_worker')
 
 var imq = new iron_mq.Client()
 
